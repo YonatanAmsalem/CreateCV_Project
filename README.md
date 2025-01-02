@@ -61,7 +61,7 @@ The app ensures consistent alignment and styling for a professional look.<br>
 Open the PDF to review your resume and share it directly via email or print it for physical distribution.<br>
 
 📸 Screenshots<br>
-
-
-<br>📝 CreateCV_Project is your all-in-one solution to crafting the perfect resume.<br>
+![CV project](imagesCVproject/firstPic.png)<br>
+![CV project](imagesCVproject/secPic.png)<br>
+<br>📝 CreateCV_Project <br> is your all-in-one solution to crafting the perfect resume.<br>
 With its user-friendly interface, customizable options, and polished output, <br>this app simplifies the resume creation process for everyone, from students to seasoned professionals. 🚀<br>
